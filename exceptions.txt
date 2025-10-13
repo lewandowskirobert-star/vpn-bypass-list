@@ -107,4 +107,9 @@ googleapis.com
 akamaihd.net
 akamaized.net
 cloudfront.net
-
+plusx.tv
+new.plusx.tv
+cdnx1.plusx.tv
+web.plusx.tv
+list.plusx.tv
+www.plusx.t
